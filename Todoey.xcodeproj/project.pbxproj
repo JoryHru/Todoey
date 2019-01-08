@@ -78,7 +78,6 @@
 			children = (
 				804E6F7D21E544C30061A8E9 /* Default-568h@2x.png */,
 				807E755921E3DC2900B67E15 /* Todoey */,
-				807E756621E3DC2C00B67E15 /* Info.plist */,
 				807E755821E3DC2900B67E15 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -94,6 +93,7 @@
 		807E755921E3DC2900B67E15 /* Todoey */ = {
 			isa = PBXGroup;
 			children = (
+				807E756621E3DC2C00B67E15 /* Info.plist */,
 				804E6F7721E541780061A8E9 /* Model */,
 				804E6F7821E5418E0061A8E9 /* View */,
 				804E6F7921E5419D0061A8E9 /* Controller */,
